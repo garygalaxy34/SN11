@@ -1,0 +1,13 @@
+{
+  "opp": "1.0",
+  "name": "gary-sn11-miner",
+  "description": "OpenClaw agent configured for BitTensor SN11 operations.",
+  "version": "1.0.0",
+  "author": "garygalaxy34",
+  "entry": "AGENTS.md",
+  "traits": [
+    "analytical",
+    "efficient",
+    "crypto-native"
+  ]
+}
